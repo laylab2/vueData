@@ -1,0 +1,39 @@
+{
+  "events":[
+{
+      "title": "Retro Disco Night",
+      "imgUrl": "https://laylab2.github.io/vueData/images/retro-night.jpg",
+      "date": "13th Jan 2023",
+      "time": "19:00"
+      "type": "Adults Only"
+   },
+   {
+      "title": "Biscuit Decoration",
+      "imgUrl": "https://laylab2.github.io/vueData/images/biscuit-decoration.jpg",
+      "date": "14th Jan 2023",
+      "time": "13:00"
+      "type": "Family Friendly"
+   },
+   {
+     "title": "00's Disco",
+      "imgUrl": "https://laylab2.github.io/vueData/images/00s-disco.jpg",
+      "date": "17th Jan 2023",
+      "time": "19:00"
+      "type": "Adults Only"
+   }, 
+   {
+      "title": "Treasure Hunt",
+      "imgUrl": "https://laylab2.github.io/vueData/images/treasure-hunt.jpg",
+      "date": "18th Jan 2023",
+      "time": "13:00"
+      "type": "Family Friendly"
+   },
+   {
+      "title": "Treasure Hunt",
+      "imgUrl": "https://laylab2.github.io/vueData/images/treasure-hunt.jpg",
+      "date": "18th Jan 2023",
+      "time": "13:00"
+      "type": "Family Friendly"
+   },
+  ]
+}
