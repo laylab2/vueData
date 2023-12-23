@@ -2,42 +2,42 @@
   "events":[
 {
       "title": "Retro Disco Night",
-      "imgUrl": "https://laylab2.github.io/vueData/images/retro-night.jpg",
+      "imgSrc": "https://laylab2.github.io/vueData/images/retro-night.jpg",
       "date": "13th Jan 2023",
       "time": "19:00"
       "type": "Adults Only"
    },
    {
       "title": "Biscuit Decoration",
-      "imgUrl": "https://laylab2.github.io/vueData/images/biscuit-decoration.jpg",
+      "imgSrc": "https://laylab2.github.io/vueData/images/biscuit-decoration.jpg",
       "date": "14th Jan 2023",
       "time": "13:00"
       "type": "Family Friendly"
    },
    {
      "title": "00's Disco",
-      "imgUrl": "https://laylab2.github.io/vueData/images/00s-disco.jpg",
+      "imgSrc": "https://laylab2.github.io/vueData/images/00s-disco.jpg",
       "date": "17th Jan 2023",
       "time": "19:00"
       "type": "Adults Only"
    }, 
    {
       "title": "Treasure Hunt",
-      "imgUrl": "https://laylab2.github.io/vueData/images/treasure-hunt.jpg",
+      "imgSrc": "https://laylab2.github.io/vueData/images/treasure-hunt.jpg",
       "date": "18th Jan 2023",
       "time": "13:00"
       "type": "Family Friendly"
    },
    {
       "title": "90's Classics",
-      "imgUrl": "https://laylab2.github.io/vueData/images/90s-classics.jpg",
+      "imgSrc": "https://laylab2.github.io/vueData/images/90s-classics.jpg",
       "date": "24th Jan 2023",
       "time": "19:00"
       "type": "Adults Only"
    },
     {
       "title": "Craft Group",
-      "imgUrl": "https://laylab2.github.io/vueData/images/craft-group.jpg",
+      "imgSrc": "https://laylab2.github.io/vueData/images/craft-group.jpg",
       "date": "25th Jan 2023",
       "time": "13:00"
       "type": "Family Friendly"
