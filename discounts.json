@@ -1,0 +1,137 @@
+{
+  "discounts":[
+    {
+      "type": "Activity",
+      "place": "Plymouth Argyle",
+      "offer": "10% off match day tickets",
+      "day": "All Time"
+    },
+    {
+      "type": "Activity",
+      "place": "The Box Museum",
+      "offer": "Buy One Get One Free Tickets",
+      "day": "Sunday"
+    },
+    {
+      "type": "Activity",
+      "place": "Escape Rooms Plymouth",
+      "offer": "20% Off",
+      "day": "Wednesday"
+    },
+    {
+      "type": "Activity",
+      "place": "National Marine Aquarium",
+      "offer": "20% Off Entry Tickets",
+      "day": "Saturday"
+    },
+
+    {
+      "type": "Bar",
+      "place": "Revolution",
+      "offer": "£2.99 Drinks",
+      "day": "Friday"
+    },
+    {
+      "type": "Bar",
+      "place": "Slug and Lettuce",
+      "offer": "Two for One Cocktails",
+      "day": "Friday"
+    },
+    {
+      "type": "Bar",
+      "place": "Hogarths",
+      "offer": "Buy One Get One Free on Shots",
+      "day": "Saturday"
+    },
+
+
+    {
+      "type": "Restaurant",
+      "place": "Wildwood",
+      "offer": "10% Off When you Spend £20",
+      "day": "Saturday", 
+      "cuisine": "International"
+    },
+    {
+      "type": "Restaurant",
+      "place": "Trattoria Capri",
+      "offer": "Spend £10, Get a Free Drink",
+      "day": "Friday", 
+      "cuisine": "Italian"
+    },
+    {
+      "type": "Restaurant",
+      "place": "The Leandra",
+      "offer": "Free Glass of Wine with Mains",
+      "day": "Friday", 
+      "cuisine": "Greek"
+    },
+    {
+      "type": "Restaurant",
+      "place": "Imperial Garden",
+      "offer": "Buy 1 Get 1 Free on Mains",
+      "day": "Tuesday", 
+      "cuisine": "Chinese"
+    },
+    {
+      "type": "Restaurant",
+      "place": "Turtle Bay",
+      "offer": "20% Off When you Spend £20",
+      "day": "Wednesday", 
+      "cuisine": "Caribbean"
+    },
+    {
+      "type": "Restaurant",
+      "place": "Positano",
+      "offer": "30% Off",
+      "day": "Monday", 
+      "cuisine": "Italian"
+    },
+    {
+      "type": "Restaurant",
+      "place": "Meze Grill",
+      "offer": "2 Free Meze Dishes",
+      "day": "Tuesday", 
+      "cuisine": "Greek"
+    },
+
+    
+    {
+      "type": "Takeaway",
+      "place": "Crown Spice Curry",
+      "offer": "Buy 1 Get 1 Free on Mains",
+      "day": "Friday", 
+       "cuisine": "Indian"
+    },
+    {
+      "type": "Takeaway",
+      "place": "Eastern Chinese",
+      "offer": "Buy 1 Main and Get 2 Free Sides",
+      "day": "Saturday",
+       "cuisine": "Chinese"
+    },
+    {
+      "type": "Takeaway",
+      "place": "Eastern Chinese",
+      "offer": "Buy 1 Main and Get 2 Free Sides",
+      "day": "Friday", 
+      "cuisine": "Chinese"
+    },
+    {
+      "type": "Takeaway",
+      "place": "Albert Kebab",
+      "offer": "Free Drink and Side",
+      "day": "Tuesday", 
+      "cuisine": "Kebab"
+    },
+    {
+      "type": "Takeaway",
+      "place": "Tasty Bites",
+      "offer": "Buy 1 Get 1 Free on Mains",
+      "day": "Thursday", 
+      "cuisine": "Pizza"
+    },
+
+    
+  ]
+}
