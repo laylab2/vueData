@@ -1,25 +1,25 @@
 {
   "discounts":[
     {
-      "type": "activity",
+      "type": "activities",
       "place": "Plymouth Argyle",
       "offer": "10% off match day tickets",
       "day": "all Time"
     },
     {
-      "type": "activity",
+      "type": "activities",
       "place": "The Box Museum",
       "offer": "Buy One Get One Free Tickets",
       "day": "sunday"
     },
     {
-      "type": "activity",
+      "type": "activities",
       "place": "Escape Rooms Plymouth",
       "offer": "20% Off",
       "day": "wednesday"
     },
     {
-      "type": "Activity",
+      "type": "activities",
       "place": "National Marine Aquarium",
       "offer": "20% Off Entry Tickets",
       "day": "saturday"
