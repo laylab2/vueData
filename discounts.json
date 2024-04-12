@@ -26,19 +26,19 @@
     },
 
     {
-      "type": "bar",
+      "type": "bars",
       "place": "Revolution",
       "offer": "£2.99 Drinks",
       "day": "friday"
     },
     {
-      "type": "bar",
+      "type": "bars",
       "place": "Slug and Lettuce",
       "offer": "Two for One Cocktails",
       "day": "friday"
     },
     {
-      "type": "bar",
+      "type": "bars",
       "place": "Hogarths",
       "offer": "Buy One Get One Free on Shots",
       "day": "saturday"
